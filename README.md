@@ -11,6 +11,78 @@ You can access a working prototype of the React app here: https://we-friendly.ve
 ### 2. User Stories
 This app is for two types of users: community members and teachers.
 
+* as a community member or teacher
+* I want to sign up for an account
+* so I can join the HVC Community Boards
+
+* as a community member or teacher
+* I want to view the Community Hub Board
+* so I can connect with the general HVC community
+
+* as a community member or teacher
+* I want to post to the Community Hub Board
+* so I can reach out to the general HVC community
+
+* as a community member or teacher
+* I want to edit or delete my own posts
+* so I can fix, update, or remove them
+
+* as a community member or teacher
+* I want to comment on other users' posts
+* so I can have conversations with other users
+
+* as a community member or teacher
+* I want to view the HVC Marketplace Boards
+* so I can look for businesses to support or items to buy
+
+* as a community member or teacher
+* I want to post to the HVC Marketplace Boards
+* so I can share my business or items with other users
+
+* as a community member or teacher
+* I want to send private messages to other users
+* so I can connect privately about posts I see on various Boards
+
+* as a community member or teacher
+* I want to view and respond to my private messages
+* so I can connect privately with other users
+
+* as a community member
+* I want to join Boards for classes and casts
+* so I can connect about topics related to those specific groups
+
+* as a community member or teacher
+* I want to view, post and comment on Boards for classes and casts
+* so I can converse with my class/castmates
+
+* as a teacher
+* I want to invite members to join classes and casts I run
+* so I can get all my students connected to group Boards
+
+* as a teacher
+* I want to set up a profile for my class or cast
+* so members feel welcome, and because it's fun!
+
+* as a teacher
+* I want to approve or reject user requests to join my class or cast
+* so that users are only joining their relevant groups
+
+* as a community member
+* I want to create a simple profile
+* so other users know who I am
+
+* as a community member or teacher
+* I want to report issues to the site administrator
+* so they can monitor and address any concerns with site performance or user conduct
+
+* as a teacher
+* I want to delete any post or comment that does not adhere to community norms
+* so everyone feels safe
+
+* as a community member or teacher
+* I want to view other users' profiles
+* so I can find out more about them
+
 ##### Landing Page/Sign Up Page
 * as a visitor,
 * I want to sign up for an account,
